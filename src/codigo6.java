@@ -28,6 +28,6 @@ public class codigo6 {
 	      }
 	    }//for
 	    
-	    
+	    in.close();
 	}//main 
 }// class Codigo6
